@@ -18,3 +18,9 @@ The site is ideal for curious readers who want to learn more about the universe 
 - **HTML5:** For the core structure of the webpage.
 - **CSS3:** For styling, including responsive design and animations.
 - **JavaScript:** For dynamic elements and user interactions.
+
+  
+## DEMO
+<img width="1882" height="857" alt="image" src="https://github.com/user-attachments/assets/3835022c-3189-44cc-a519-59e92d50ea5d" />
+<img width="1868" height="856" alt="image" src="https://github.com/user-attachments/assets/df7f961d-4e41-4eb5-8c5d-a4a1b515f939" />
+<img width="1881" height="856" alt="image" src="https://github.com/user-attachments/assets/5b7738e8-8efb-4bdf-b8d2-4c369c77d0bf" />
